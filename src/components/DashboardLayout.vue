@@ -3,8 +3,8 @@
         <v-navigation-drawer class="fullheight" width="256" permanent app fixed>
             <v-list-item>
                 <v-list-item-content>
-                    <v-list-item-title class="title"> Luis Peter Lolobuak </v-list-item-title>
-                    <v-list-item-subtitle> 190710342 </v-list-item-subtitle>
+                    <v-list-item-title class="title"> Nico </v-list-item-title>
+                    <v-list-item-subtitle> 190710127 </v-list-item-subtitle>
                 </v-list-item-content>
             </v-list-item>
 
